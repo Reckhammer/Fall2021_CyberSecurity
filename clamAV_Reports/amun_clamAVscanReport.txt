@@ -1,0 +1,16 @@
+
+-------------------------------------------------------------------------------
+
+/home/joshua_rechkemmer48/.cache/motd.legal-displayed: Empty file
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8579047
+Engine version: 0.103.2
+Scanned directories: 5
+Scanned files: 7
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 26.957 sec (0 m 26 s)
+Start Date: 2021:11:22 00:28:40
+End Date:   2021:11:22 00:29:07
