@@ -48,6 +48,10 @@
 
 <img src="/gif/malware_Scan.gif">
 
+[Dionaea Honeypot ClamAV Scan Report](/clamAVscanReports/dionaea_clamAVscanReport.txt)
+
+[Amun Honeypot ClamAV Scan Report](/clamAVscanReports/amun_clamAVscanReport.txt)
+
 ## Notes
 
 1. During the initial creation of the admin VM, I had some sort of error with the honeymap, so it wasn't capturing any attacks. To fix this, I just deleted the instance and created a new one. When I ran 
